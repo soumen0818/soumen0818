@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soumen and I'm a Data Scientist, from India</h2>
+<h2 align="left">Hi 👋! My name is Soumen and I'm a WEB DEVELOPER, from India</h2>
 
 ###
 
@@ -9,62 +9,45 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/609tir.jpg"  />
+<img align="right" height="150" src="https://m.economictimes.com/industry/services/education/american-university-announces-apj-abdul-kalam-fellowship-for-indian-students/articleshow/50230136.cms"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <a href="https://www.geeksforgeeks.org/html-course-structure-of-an-html-document/" target="_blank">
+    <img src="https://pixabay.com/illustrations/logo-html-html5-icon-2582748/" height="35" alt="HTML logo"  />
+  </a>
+  <a href="https://www.w3schools.com/css/css_form.asp" target="_blank">
+    <img src="https://www.flaticon.com/free-icon/css_919826" height="35" alt="CSS logo"  />
+  </a>
+  <a href="https://www.geeksforgeeks.org/javascript/" target="_blank">
+    <img src="https://www.vecteezy.com/png/27127463-javascript-logo-png-javascript-icon-transparent-png" height="35" alt="JavaScript logo"  />
+  </a>
+  <a href="https://react.dev/https://react.dev/" target="_blank">
+    <img src="https://www.pngwing.com/en/search?q=react" height="35" alt="React logo"  />
+  </a>
+  <a href="https://nodejs.org/api/all.html" target="_blank">
+    <img src="https://www.svgrepo.com/svg/303360/nodejs-logo" height="35" alt="Node.js logo"  />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://1000logos.net/mongodb-logo/" height="35" alt="Mongodb logo"  />
+  </a>
+  <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank">
+    <img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" height="35" alt="c language logo"  />
+  </a>
+  
 </div>
 
 ###
 
 <div align="left">
-  <a href="discord:///users/arka0163" target="_blank">
+  <a href="https://discord.com/channels/@soumen_0818" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:dasharka05@gmail.com@gmail.com" target="_blank">
+  <a href="dassoumen0818@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/arka-dash/" target="_blank">
+  <a href="https://www.linkedin.com/in/soumen-das-76b867218/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
