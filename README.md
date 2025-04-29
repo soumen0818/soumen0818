@@ -51,12 +51,30 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen0818&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=soumen0818&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soumen0818&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soumen0818&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="170" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumen0818&theme=tokyonight&hide_border=true" width="700" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=soumen0818&theme=tokyonight&hide_border=true" width="700" alt="GitHub Streak" />
+  </a>
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=soumen0818&theme=nord&column=7&no-frame=true&margin-w=15" alt="GitHub Trophy" />
+  </a>
+</div>
+
+## 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumen0818/soumen0818/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumen0818/soumen0818/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soumen0818/soumen0818/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 🤝 Connect With Me
@@ -70,10 +88,4 @@
   <a href="https://instagram.com/sou_men_8.18" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
-
-<div align="center">
-  <br>
-  
-  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=soumen0818&theme=nord&column=7&no-frame=true)](https://github.com/soumen0818)
 </div>
