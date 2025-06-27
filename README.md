@@ -92,11 +92,9 @@ I'm a dedicated **Computer Science & Engineering undergraduate** with a passion 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumen0818&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=soumen0818&theme=neon&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumen0818&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=soumen0818&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=soumen0818&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumen0818&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -106,7 +104,7 @@ I'm a dedicated **Computer Science & Engineering undergraduate** with a passion 
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=soumen0818&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=soumen0818&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
