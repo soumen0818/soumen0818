@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Soumen Das
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Cloud+Computing+Explorer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+Enthusiast;Cloud+Computing+Explorer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
 
-I'm a dedicated **Computer Science & Engineering undergraduate** with a passion for web development and cloud computing. Currently focusing on mastering the **MERN stack** and exploring **AWS fundamentals** through hands-on projects and continuous learning.
+I'm a dedicated **Computer Science & Engineering undergraduate** with a passion for web development and cloud computing. Currently focusing on mastering the **MERN stack** and exploring **Web3** through hands-on projects and continuous learning.
 
-- 🌱 **Currently Learning:** Cloud Computing & AWS
-- 💻 **Focus Areas:** Full Stack Development, MERN Stack
+- 🌱 **Currently Learning:** Web3 & ai-agent
+- 💻 **Focus Areas:** Backend Development, MERN Stack
 - 🎯 **Goal:** Bringing innovative solutions and fresh perspectives to development teams
 - 📫 **Contact:** dassoumen0818@gmail.com
 - 📄 **Resume:** [View Here](https://www.canva.com/design/DAGltmrOziE/Rr0YbwtuyIU5CkbXfkZMNw/edit?utm_content=DAGltmrOziE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
