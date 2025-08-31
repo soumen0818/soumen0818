@@ -12,7 +12,8 @@ I'm a dedicated **Computer Science & Engineering undergraduate** with a passion 
 - 💻 **Focus Areas:** Backend Development, MERN Stack
 - 🎯 **Goal:** Bringing innovative solutions and fresh perspectives to development teams
 - 📫 **Contact:** dassoumen0818@gmail.com
-- 📄 **Resume:** [View Here](https://www.canva.com/design/DAGltmrOziE/Rr0YbwtuyIU5CkbXfkZMNw/edit?utm_content=DAGltmrOziE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🌐 **Portfolio:** [View Here](https://www.soumendas.me/)
+
 
 ---
 
