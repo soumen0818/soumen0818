@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I'm a dedicated **Computer Science & Engineering undergraduate** with a passion for web development and cloud computing. Currently focusing on mastering the **MERN stack** and exploring **Web3** through hands-on projects and continuous learning.
+I'm a dedicated **Computer Science & Engineering undergraduate** with a passion for web development and web3. Currently focusing on mastering the **MERN stack** and exploring **Web3** through hands-on projects and continuous learning.
 
 - 🌱 **Currently Learning:** Web3 & ai-agent
 - 💻 **Focus Areas:** Backend Development, MERN Stack
