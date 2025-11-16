@@ -98,37 +98,4 @@ I'm a dedicated **Computer Science & Engineering undergraduate** with a passion 
 
 </div>
 
----
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=soumen0818&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=soumen0818&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soumen0818&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
-
-</div>
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
