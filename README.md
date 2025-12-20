@@ -14,8 +14,21 @@ I'm a dedicated **Computer Science & Engineering undergraduate** with a passion 
 - 📫 **Contact:** dassoumen0818@gmail.com
 - 🌐 **Portfolio:** [View Here](https://www.soumendas.me/)
 
+---
+
+## ❤️ Support My Work
+
+If you like my projects and want to support my open-source work, consider sponsoring me 💙  
+
+<div align="center">
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/soumen0818)
+
+</div>
 
 ---
+
+
 
 ## 🌐 Connect With Me
 
