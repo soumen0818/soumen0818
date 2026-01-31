@@ -6,10 +6,11 @@
 
 ## 💫 About Me
 
-I'm a dedicated **Computer Science & Engineering undergraduate** with a passion for web development and web3. Currently focusing on mastering the **MERN stack** and exploring **Web3** through hands-on projects and continuous learning.
+I'm a dedicated **Computer Science & Engineering** undergraduate passionate about modern **web development** and **Blockchain**.
+Currently mastering the **Backend & System Scalability** and exploring **Web3** through hands‑on projects and continuous learning.
 
-- 🌱 **Currently Learning:** Web3 & ai-agent
-- 💻 **Focus Areas:** Backend Development, MERN Stack
+- 🌱 **Currently Learning:** Web3 & Backend
+- 💻 **Focus Areas:** Backend Development, Decentralized Platform
 - 🎯 **Goal:** Bringing innovative solutions and fresh perspectives to development teams
 - 📫 **Contact:** dassoumen0818@gmail.com
 - 🌐 **Portfolio:** [View Here](https://www.soumendas.me/)
