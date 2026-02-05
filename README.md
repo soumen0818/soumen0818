@@ -10,7 +10,7 @@ I'm a dedicated **Computer Science & Engineering** undergraduate passionate abou
 Currently mastering the **Backend & System Scalability** and exploring **Web3** through hands‑on projects and continuous learning.
 
 - 🌱 **Currently Learning:** Web3 & Backend
-- 💻 **Focus Areas:** Backend Development, Decentralized Platform
+- 💻 **Focus Areas:** Backend Development, Blockchain Development
 - 🎯 **Goal:** Bringing innovative solutions and fresh perspectives to development teams
 - 📫 **Contact:** dassoumen0818@gmail.com
 - 🌐 **Portfolio:** [View Here](https://www.soumendas.me/)
