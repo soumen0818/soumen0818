@@ -13,7 +13,7 @@ Currently mastering the **Backend & System Scalability** and exploring **Web3** 
 - 💻 **Focus Areas:** Backend Development, Blockchain Development
 - 🎯 **Goal:** Bringing innovative solutions and fresh perspectives to development teams
 - 📫 **Contact:** dassoumen0818@gmail.com
-- 🌐 **Portfolio:** [View Here](https://www.soumendas.me/)
+- 🌐 **Portfolio:** [View Here](https://soumendas.vercel.app/)
 
 ---
 
